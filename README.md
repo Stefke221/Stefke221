@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Stefke221
 - 🌱 I’m currently learning
 - 🤡 https://stefke221.xyz
-- 🤖 Stefke221™#1905
+- 🤖 hack#1337
 
 <!---
 Stefke221/Stefke221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
